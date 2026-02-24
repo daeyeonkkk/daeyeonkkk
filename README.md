@@ -103,7 +103,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 💰 Bankbook Project
+### 💰 FINAI
 
 **AI 기반 금융상품 비교·추천 서비스**
 
@@ -113,7 +113,7 @@
 - AI 금융상품 추천 엔진 구현
 - 프로젝트 발표 담당
 
-`Django DRF` `Vue.js 3` `OpenAI API` `Chart.js` `Pinia`
+`Django DRF` `Vue.js 3` `Gemini AI` `Chart.js` `Pinia`
 
 > ⚠️ *SSAFY 정책에 따라 소스코드 비공개*
 
