@@ -26,6 +26,17 @@
 - 음악, 이미지, 금융, agent platform처럼 domain logic이 있는 제품을 full-stack으로 구조화
 - private source와 public portfolio surface를 분리해 공개 가능한 repo 품질 관리
 
+## Career Evidence At A Glance
+
+| 근거 | 내 역할 | 기술/키워드 | 가장 잘 보여주는 역량 |
+| --- | --- | --- | --- |
+| [Theseus](https://github.com/daeyeonkkk/Theseus) | AI 에이전트 백엔드, ERD/API, Kafka pipeline, Redis/SSE 상태 복구, Remote Workspace | FastAPI, Spring Boot, Kafka, Redis, SSE, Docker sandbox | agent runtime을 권한, 승인, 실행, 복구가 있는 backend contract로 만드는 역량 |
+| [DreamCatcher](https://github.com/daeyeonkkk/DreamCatcher) | 풀스택, AI workflow 설계, RunPod 실행 기준, release gate | FastAPI, React, ComfyUI, RunPod | AI 편집 기능을 반복 가능한 제품/runtime/release 흐름으로 묶는 역량 |
+| [GigaStudy](https://github.com/daeyeonkkk/GigaStudy) | 풀스택, API/음악 이벤트 모델, AI 기능 검증 기준 | FastAPI, React, TypeScript, PyMuPDF, librosa | 복잡한 음악 입력을 하나의 timeline truth로 모델링하는 역량 |
+| [SARVIS](https://github.com/daeyeonkkk/SARVIS) | frontend 구현, backend API 조율, sprint 2 이후 PM/팀장 | React Native, Django, FastAPI, Jetson | FE/BE/edge/hardware 통합에서 API 계약을 맞추는 역량 |
+| [MonET](https://github.com/daeyeonkkk/MonET) | 인프라 리드, 운영 기준, backend 통합 지원 | Unity Web, Spring Boot, Docker Compose, Nginx, GitLab CI | 프로젝트 피벗 이후 배포/운영 baseline을 다시 세우는 역량 |
+| [FINAI](https://github.com/daeyeonkkk/FINAI) | backend로 시작해 frontend까지 풀스택 기여, AI 추천 기능 구현, 발표 | Django REST, Vue 3, Pinia, Chart.js | 금융상품 데이터를 추천 서비스 흐름으로 구조화하는 역량 |
+
 ## Focus
 
 | 관심사 | 제가 신경 쓰는 질문 |
